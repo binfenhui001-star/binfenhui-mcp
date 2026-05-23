@@ -1,0 +1,13 @@
+[project]
+name = "email-mcp"
+version = "1.0.0"
+description = "Bundled email MCP (IMAP/SMTP) for BinFenHui — based on RickyQzh/email_mcp"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "mcp>=1.2.0",
+  "beautifulsoup4>=4.12.0",
+]
+
+[tool.uv]
+dev-dependencies = []

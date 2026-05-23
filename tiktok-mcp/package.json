@@ -1,0 +1,34 @@
+{
+  "name": "tiktok-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for TikTok Shop Open API (nodejs_sdk)",
+  "type": "module",
+  "main": "./dist/mcp-server.js",
+  "bin": {
+    "tiktok-sdk-mcp": "./dist/mcp-server.js"
+  },
+  "scripts": {
+    "vendor:sdk": "node scripts/vendor-nodejs-sdk.mjs",
+    "build": "node scripts/vendor-nodejs-sdk.mjs && node scripts/generate-catalog.mjs && tsc && cp src/jiti-bootstrap.mjs dist/jiti-bootstrap.mjs",
+    "test": "bun test src/",
+    "generate:catalog": "node scripts/generate-catalog.mjs",
+    "start": "node --env-file=.env dist/mcp-server.js",
+    "mcp:stdio": "node --env-file=.env dist/mcp-server.js",
+    "dev": "tsc --watch"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@cfworker/json-schema": "^4.1.1",
+    "@modelcontextprotocol/server": "^2.0.0-alpha.2",
+    "ioredis": "^5.8.2",
+    "jiti": "^2.4.2",
+    "request": "2.88.2",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.6.0"
+  }
+}

@@ -1,0 +1,1527 @@
+[
+  {
+    "toolName": "tiktok_affiliate_creator_v202405_open_collaborations_products_search_post",
+    "apiClient": "AffiliateCreatorV202405Api",
+    "method": "OpenCollaborationsProductsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202405_orders_search_post",
+    "apiClient": "AffiliateCreatorV202405Api",
+    "method": "OrdersSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202405_profiles_get",
+    "apiClient": "AffiliateCreatorV202405Api",
+    "method": "ProfilesGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202405_showcases_products_add_post",
+    "apiClient": "AffiliateCreatorV202405Api",
+    "method": "ShowcasesProductsAddPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202405_showcases_products_get",
+    "apiClient": "AffiliateCreatorV202405Api",
+    "method": "ShowcasesProductsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202405_target_collaborations_search_post",
+    "apiClient": "AffiliateCreatorV202405Api",
+    "method": "TargetCollaborationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202407_affiliate_sharing_links_generate_batch_post",
+    "apiClient": "AffiliateCreatorV202407Api",
+    "method": "AffiliateSharingLinksGenerateBatchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202409_sample_applications_fulfillments_search_post",
+    "apiClient": "AffiliateCreatorV202409Api",
+    "method": "SampleApplicationsFulfillmentsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202409_showcases_products_delete",
+    "apiClient": "AffiliateCreatorV202409Api",
+    "method": "ShowcasesProductsDelete"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202409_showcases_products_top_post",
+    "apiClient": "AffiliateCreatorV202409Api",
+    "method": "ShowcasesProductsTopPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202410_orders_search_post",
+    "apiClient": "AffiliateCreatorV202410Api",
+    "method": "OrdersSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202412_sample_applications_search_post",
+    "apiClient": "AffiliateCreatorV202412Api",
+    "method": "SampleApplicationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202412_sample_applications_single_query_post",
+    "apiClient": "AffiliateCreatorV202412Api",
+    "method": "SampleApplicationsSingleQueryPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202412_samples_labels_get",
+    "apiClient": "AffiliateCreatorV202412Api",
+    "method": "SamplesLabelsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202501_affiliate_sharing_links_generate_batch_post",
+    "apiClient": "AffiliateCreatorV202501Api",
+    "method": "AffiliateSharingLinksGenerateBatchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202501_selection_products_search_post",
+    "apiClient": "AffiliateCreatorV202501Api",
+    "method": "SelectionProductsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202508_profiles_get",
+    "apiClient": "AffiliateCreatorV202508Api",
+    "method": "ProfilesGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202509_open_collaborations_products_post",
+    "apiClient": "AffiliateCreatorV202509Api",
+    "method": "OpenCollaborationsProductsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_creator_v202512_samples_deeplink_get",
+    "apiClient": "AffiliateCreatorV202512Api",
+    "method": "SamplesDeeplinkGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202405_campaigns_campaign_id_get",
+    "apiClient": "AffiliatePartnerV202405Api",
+    "method": "CampaignsCampaignIdGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202405_campaigns_campaign_id_partial_edit_post",
+    "apiClient": "AffiliatePartnerV202405Api",
+    "method": "CampaignsCampaignIdPartialEditPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202405_campaigns_campaign_id_products_get",
+    "apiClient": "AffiliatePartnerV202405Api",
+    "method": "CampaignsCampaignIdProductsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202405_campaigns_campaign_id_products_product_id_promotion_link_generate_post",
+    "apiClient": "AffiliatePartnerV202405Api",
+    "method": "CampaignsCampaignIdProductsProductIdPromotionLinkGeneratePost"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202405_campaigns_campaign_id_products_product_id_review_post",
+    "apiClient": "AffiliatePartnerV202405Api",
+    "method": "CampaignsCampaignIdProductsProductIdReviewPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202405_campaigns_campaign_id_publish_post",
+    "apiClient": "AffiliatePartnerV202405Api",
+    "method": "CampaignsCampaignIdPublishPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202405_campaigns_get",
+    "apiClient": "AffiliatePartnerV202405Api",
+    "method": "CampaignsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202405_campaigns_post",
+    "apiClient": "AffiliatePartnerV202405Api",
+    "method": "CampaignsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202411_orders_search_post",
+    "apiClient": "AffiliatePartnerV202411Api",
+    "method": "OrdersSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202501_campaigns_campaign_id_products_performance_get",
+    "apiClient": "AffiliatePartnerV202501Api",
+    "method": "CampaignsCampaignIdProductsPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202501_campaigns_campaign_id_products_product_id_creator_creator_temp_id_content_statistics_get",
+    "apiClient": "AffiliatePartnerV202501Api",
+    "method": "CampaignsCampaignIdProductsProductIdCreatorCreatorTempIdContentStatisticsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202501_campaigns_campaign_id_products_product_id_creator_creator_temp_id_content_statistics_sample_status_get",
+    "apiClient": "AffiliatePartnerV202501Api",
+    "method": "CampaignsCampaignIdProductsProductIdCreatorCreatorTempIdContentStatisticsSampleStatusGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202501_campaigns_campaign_id_products_product_id_performance_get",
+    "apiClient": "AffiliatePartnerV202501Api",
+    "method": "CampaignsCampaignIdProductsProductIdPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202505_campaigns_campaign_id_products_promotion_links_generate_batch_post",
+    "apiClient": "AffiliatePartnerV202505Api",
+    "method": "CampaignsCampaignIdProductsPromotionLinksGenerateBatchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202508_campaigns_campaign_id_products_product_id_creator_creator_temp_id_content_statistics_get",
+    "apiClient": "AffiliatePartnerV202508Api",
+    "method": "CampaignsCampaignIdProductsProductIdCreatorCreatorTempIdContentStatisticsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202508_campaigns_campaign_id_products_product_id_creator_creator_temp_id_content_statistics_sample_status_get",
+    "apiClient": "AffiliatePartnerV202508Api",
+    "method": "CampaignsCampaignIdProductsProductIdCreatorCreatorTempIdContentStatisticsSampleStatusGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_partner_v202603_orders_search_post",
+    "apiClient": "AffiliatePartnerV202603Api",
+    "method": "OrdersSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202405_open_collaboration_settings_post",
+    "apiClient": "AffiliateSellerV202405Api",
+    "method": "OpenCollaborationSettingsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202405_open_collaborations_open_collaboration_id_remove_creator_post",
+    "apiClient": "AffiliateSellerV202405Api",
+    "method": "OpenCollaborationsOpenCollaborationIdRemoveCreatorPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202405_open_collaborations_post",
+    "apiClient": "AffiliateSellerV202405Api",
+    "method": "OpenCollaborationsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202405_open_collaborations_products_search_post",
+    "apiClient": "AffiliateSellerV202405Api",
+    "method": "OpenCollaborationsProductsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202405_orders_search_post",
+    "apiClient": "AffiliateSellerV202405Api",
+    "method": "OrdersSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202405_products_product_id_promotion_link_generate_post",
+    "apiClient": "AffiliateSellerV202405Api",
+    "method": "ProductsProductIdPromotionLinkGeneratePost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202405_target_collaborations_post",
+    "apiClient": "AffiliateSellerV202405Api",
+    "method": "TargetCollaborationsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202406_marketplace_creators_creator_user_id_get",
+    "apiClient": "AffiliateSellerV202406Api",
+    "method": "MarketplaceCreatorsCreatorUserIdGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202406_marketplace_creators_search_post",
+    "apiClient": "AffiliateSellerV202406Api",
+    "method": "MarketplaceCreatorsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_open_collaboration_settings_get",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "OpenCollaborationSettingsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_open_collaborations_products_product_id_delete",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "OpenCollaborationsProductsProductIdDelete"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_open_collaborations_search_post",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "OpenCollaborationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_sample_applications_application_id_fulfillments_search_post",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "SampleApplicationsApplicationIdFulfillmentsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_sample_applications_application_id_review_post",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "SampleApplicationsApplicationIdReviewPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_sample_applications_search_post",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "SampleApplicationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_target_collaborations_search_post",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "TargetCollaborationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_target_collaborations_target_collaboration_id_delete",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "TargetCollaborationsTargetCollaborationIdDelete"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_target_collaborations_target_collaboration_id_get",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "TargetCollaborationsTargetCollaborationIdGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202409_target_collaborations_target_collaboration_id_put",
+    "apiClient": "AffiliateSellerV202409Api",
+    "method": "TargetCollaborationsTargetCollaborationIdPut"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202410_open_collaborations_sample_rules_get",
+    "apiClient": "AffiliateSellerV202410Api",
+    "method": "OpenCollaborationsSampleRulesGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202410_open_collaborations_sample_rules_post",
+    "apiClient": "AffiliateSellerV202410Api",
+    "method": "OpenCollaborationsSampleRulesPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202410_orders_search_post",
+    "apiClient": "AffiliateSellerV202410Api",
+    "method": "OrdersSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_conversation_conversation_id_messages_get",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "ConversationConversationIdMessagesGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_conversations_conversation_id_messages_post",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "ConversationsConversationIdMessagesPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_conversations_get",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "ConversationsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_conversations_messages_list_newest_get",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "ConversationsMessagesListNewestGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_conversations_post",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "ConversationsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_conversatons_read_post",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "ConversatonsReadPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_open_collaborations_creator_content_details_get",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "OpenCollaborationsCreatorContentDetailsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_open_collaborations_post",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "OpenCollaborationsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_open_collaborations_search_post",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "OpenCollaborationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202412_target_collaborations_target_collaboration_id_get",
+    "apiClient": "AffiliateSellerV202412Api",
+    "method": "TargetCollaborationsTargetCollaborationIdGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202505_conversations_get",
+    "apiClient": "AffiliateSellerV202505Api",
+    "method": "ConversationsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202505_marketplace_creators_creator_user_id_get",
+    "apiClient": "AffiliateSellerV202505Api",
+    "method": "MarketplaceCreatorsCreatorUserIdGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202505_marketplace_creators_search_post",
+    "apiClient": "AffiliateSellerV202505Api",
+    "method": "MarketplaceCreatorsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202507_sample_applications_application_id_review_post",
+    "apiClient": "AffiliateSellerV202507Api",
+    "method": "SampleApplicationsApplicationIdReviewPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202507_sample_applications_search_post",
+    "apiClient": "AffiliateSellerV202507Api",
+    "method": "SampleApplicationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_conversations_post",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "ConversationsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_marketplace_creators_creator_user_id_get",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "MarketplaceCreatorsCreatorUserIdGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_marketplace_creators_search_post",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "MarketplaceCreatorsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_open_collaborations_creator_content_details_get",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "OpenCollaborationsCreatorContentDetailsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_open_collaborations_open_collaboration_id_remove_creator_post",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "OpenCollaborationsOpenCollaborationIdRemoveCreatorPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_sample_applications_search_post",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "SampleApplicationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_target_collaborations_post",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "TargetCollaborationsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_target_collaborations_search_post",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "TargetCollaborationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_target_collaborations_target_collaboration_id_get",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "TargetCollaborationsTargetCollaborationIdGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202508_target_collaborations_target_collaboration_id_put",
+    "apiClient": "AffiliateSellerV202508Api",
+    "method": "TargetCollaborationsTargetCollaborationIdPut"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202509_target_collaboration_target_collaboration_id_link_post",
+    "apiClient": "AffiliateSellerV202509Api",
+    "method": "TargetCollaborationTargetCollaborationIdLinkPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202511_images_upload_post",
+    "apiClient": "AffiliateSellerV202511Api",
+    "method": "ImagesUploadPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202512_sample_applications_deeplink_get",
+    "apiClient": "AffiliateSellerV202512Api",
+    "method": "SampleApplicationsDeeplinkGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202601_marketplace_creators_search_filter_post",
+    "apiClient": "AffiliateSellerV202601Api",
+    "method": "MarketplaceCreatorsSearchFilterPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202603_compass_offline_task_post",
+    "apiClient": "AffiliateSellerV202603Api",
+    "method": "CompassOfflineTaskPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202603_compass_offline_tasks_get",
+    "apiClient": "AffiliateSellerV202603Api",
+    "method": "CompassOfflineTasksGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_seller_v202603_compass_offline_tasks_task_id_file_get",
+    "apiClient": "AffiliateSellerV202603Api",
+    "method": "CompassOfflineTasksTaskIdFileGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_v202309_live_rooms_get",
+    "apiClient": "AffiliateV202309Api",
+    "method": "LiveRoomsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_v202309_profiles_get",
+    "apiClient": "AffiliateV202309Api",
+    "method": "ProfilesGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_v202309_shop_products_get",
+    "apiClient": "AffiliateV202309Api",
+    "method": "ShopProductsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_v202309_showcases_products_delete",
+    "apiClient": "AffiliateV202309Api",
+    "method": "ShowcasesProductsDelete"
+  },
+  {
+    "toolName": "tiktok_affiliate_v202309_showcases_products_get",
+    "apiClient": "AffiliateV202309Api",
+    "method": "ShowcasesProductsGet"
+  },
+  {
+    "toolName": "tiktok_affiliate_v202309_showcases_products_post",
+    "apiClient": "AffiliateV202309Api",
+    "method": "ShowcasesProductsPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_v202309_showcases_products_top_post",
+    "apiClient": "AffiliateV202309Api",
+    "method": "ShowcasesProductsTopPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_v202402_anchors_prerequisite_check_post",
+    "apiClient": "AffiliateV202402Api",
+    "method": "AnchorsPrerequisiteCheckPost"
+  },
+  {
+    "toolName": "tiktok_affiliate_v202403_anchors_content_check_post",
+    "apiClient": "AffiliateV202403Api",
+    "method": "AnchorsContentCheckPost"
+  },
+  {
+    "toolName": "tiktok_analytics_v202405_shop_performance_get",
+    "apiClient": "AnalyticsV202405Api",
+    "method": "ShopPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202405_shop_products_performance_get",
+    "apiClient": "AnalyticsV202405Api",
+    "method": "ShopProductsPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202405_shop_products_product_id_performance_get",
+    "apiClient": "AnalyticsV202405Api",
+    "method": "ShopProductsProductIdPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202406_shop_skus_performance_get",
+    "apiClient": "AnalyticsV202406Api",
+    "method": "ShopSkusPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202406_shop_skus_sku_id_performance_get",
+    "apiClient": "AnalyticsV202406Api",
+    "method": "ShopSkusSkuIdPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202409_shop_videos_overview_performance_get",
+    "apiClient": "AnalyticsV202409Api",
+    "method": "ShopVideosOverviewPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202409_shop_videos_performance_get",
+    "apiClient": "AnalyticsV202409Api",
+    "method": "ShopVideosPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202409_shop_videos_video_id_performance_get",
+    "apiClient": "AnalyticsV202409Api",
+    "method": "ShopVideosVideoIdPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202409_shop_videos_video_id_products_performance_get",
+    "apiClient": "AnalyticsV202409Api",
+    "method": "ShopVideosVideoIdProductsPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202508_shop_lives_overview_performance_get",
+    "apiClient": "AnalyticsV202508Api",
+    "method": "ShopLivesOverviewPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202508_shop_lives_performance_get",
+    "apiClient": "AnalyticsV202508Api",
+    "method": "ShopLivesPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_lives_overview_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopLivesOverviewPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_lives_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopLivesPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_products_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopProductsPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_products_product_id_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopProductsProductIdPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_skus_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopSkusPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_skus_sku_id_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopSkusSkuIdPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_videos_overview_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopVideosOverviewPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_videos_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopVideosPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_videos_video_id_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopVideosVideoIdPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202509_shop_videos_video_id_products_performance_get",
+    "apiClient": "AnalyticsV202509Api",
+    "method": "ShopVideosVideoIdProductsPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202510_shop_lives_live_id_performance_per_minutes_get",
+    "apiClient": "AnalyticsV202510Api",
+    "method": "ShopLivesLiveIdPerformancePerMinutesGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202510_shop_performance_date_performance_per_hour_get",
+    "apiClient": "AnalyticsV202510Api",
+    "method": "ShopPerformanceDatePerformancePerHourGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202511_creators_bestselling_get",
+    "apiClient": "AnalyticsV202511Api",
+    "method": "CreatorsBestsellingGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202511_lives_bestselling_get",
+    "apiClient": "AnalyticsV202511Api",
+    "method": "LivesBestsellingGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202511_products_bestselling_get",
+    "apiClient": "AnalyticsV202511Api",
+    "method": "ProductsBestsellingGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202511_videos_bestselling_get",
+    "apiClient": "AnalyticsV202511Api",
+    "method": "VideosBestsellingGet"
+  },
+  {
+    "toolName": "tiktok_analytics_v202512_shop_live_id_products_performance_get",
+    "apiClient": "AnalyticsV202512Api",
+    "method": "ShopLiveIdProductsPerformanceGet"
+  },
+  {
+    "toolName": "tiktok_authorization_v202309_shops_get",
+    "apiClient": "AuthorizationV202309Api",
+    "method": "ShopsGet"
+  },
+  {
+    "toolName": "tiktok_authorization_v202312_widget_token_get",
+    "apiClient": "AuthorizationV202312Api",
+    "method": "WidgetTokenGet"
+  },
+  {
+    "toolName": "tiktok_authorization_v202401_widget_token_get",
+    "apiClient": "AuthorizationV202401Api",
+    "method": "WidgetTokenGet"
+  },
+  {
+    "toolName": "tiktok_authorization_v202403_shops_delete",
+    "apiClient": "AuthorizationV202403Api",
+    "method": "ShopsDelete"
+  },
+  {
+    "toolName": "tiktok_authorization_v202405_category_assets_get",
+    "apiClient": "AuthorizationV202405Api",
+    "method": "CategoryAssetsGet"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202309_agents_settings_get",
+    "apiClient": "CustomerServiceV202309Api",
+    "method": "AgentsSettingsGet"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202309_agents_settings_put",
+    "apiClient": "CustomerServiceV202309Api",
+    "method": "AgentsSettingsPut"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202309_conversations_conversation_id_messages_get",
+    "apiClient": "CustomerServiceV202309Api",
+    "method": "ConversationsConversationIdMessagesGet"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202309_conversations_conversation_id_messages_post",
+    "apiClient": "CustomerServiceV202309Api",
+    "method": "ConversationsConversationIdMessagesPost"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202309_conversations_conversation_id_messages_read_post",
+    "apiClient": "CustomerServiceV202309Api",
+    "method": "ConversationsConversationIdMessagesReadPost"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202309_conversations_get",
+    "apiClient": "CustomerServiceV202309Api",
+    "method": "ConversationsGet"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202309_conversations_post",
+    "apiClient": "CustomerServiceV202309Api",
+    "method": "ConversationsPost"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202309_images_upload_post",
+    "apiClient": "CustomerServiceV202309Api",
+    "method": "ImagesUploadPost"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202407_performance_get",
+    "apiClient": "CustomerServiceV202407Api",
+    "method": "PerformanceGet"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202601_conversations_conversation_id_get",
+    "apiClient": "CustomerServiceV202601Api",
+    "method": "ConversationsConversationIdGet"
+  },
+  {
+    "toolName": "tiktok_customer_service_v202602_sessions_search_post",
+    "apiClient": "CustomerServiceV202602Api",
+    "method": "SessionsSearchPost"
+  },
+  {
+    "toolName": "tiktok_data_reconciliation_v202309_orders_sync_post",
+    "apiClient": "DataReconciliationV202309Api",
+    "method": "OrdersSyncPost"
+  },
+  {
+    "toolName": "tiktok_data_reconciliation_v202310_orders_import_post",
+    "apiClient": "DataReconciliationV202310Api",
+    "method": "OrdersImportPost"
+  },
+  {
+    "toolName": "tiktok_data_reconciliation_v202401_orders_import_post",
+    "apiClient": "DataReconciliationV202401Api",
+    "method": "OrdersImportPost"
+  },
+  {
+    "toolName": "tiktok_event_v202309_webhooks_delete",
+    "apiClient": "EventV202309Api",
+    "method": "WebhooksDelete"
+  },
+  {
+    "toolName": "tiktok_event_v202309_webhooks_get",
+    "apiClient": "EventV202309Api",
+    "method": "WebhooksGet"
+  },
+  {
+    "toolName": "tiktok_event_v202309_webhooks_put",
+    "apiClient": "EventV202309Api",
+    "method": "WebhooksPut"
+  },
+  {
+    "toolName": "tiktok_finance_v202309_orders_order_id_statement_transactions_get",
+    "apiClient": "FinanceV202309Api",
+    "method": "OrdersOrderIdStatementTransactionsGet"
+  },
+  {
+    "toolName": "tiktok_finance_v202309_payments_get",
+    "apiClient": "FinanceV202309Api",
+    "method": "PaymentsGet"
+  },
+  {
+    "toolName": "tiktok_finance_v202309_statements_get",
+    "apiClient": "FinanceV202309Api",
+    "method": "StatementsGet"
+  },
+  {
+    "toolName": "tiktok_finance_v202309_statements_statement_id_statement_transactions_get",
+    "apiClient": "FinanceV202309Api",
+    "method": "StatementsStatementIdStatementTransactionsGet"
+  },
+  {
+    "toolName": "tiktok_finance_v202309_withdrawals_get",
+    "apiClient": "FinanceV202309Api",
+    "method": "WithdrawalsGet"
+  },
+  {
+    "toolName": "tiktok_finance_v202501_orders_order_id_statement_transactions_get",
+    "apiClient": "FinanceV202501Api",
+    "method": "OrdersOrderIdStatementTransactionsGet"
+  },
+  {
+    "toolName": "tiktok_finance_v202501_statements_statement_id_statement_transactions_get",
+    "apiClient": "FinanceV202501Api",
+    "method": "StatementsStatementIdStatementTransactionsGet"
+  },
+  {
+    "toolName": "tiktok_finance_v202507_orders_unsettled_get",
+    "apiClient": "FinanceV202507Api",
+    "method": "OrdersUnsettledGet"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_combinable_packages_search_get",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "CombinablePackagesSearchGet"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_files_upload_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "FilesUploadPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_images_upload_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "ImagesUploadPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_orders_order_id_handover_time_slots_get",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "OrdersOrderIdHandoverTimeSlotsGet"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_orders_order_id_packages_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "OrdersOrderIdPackagesPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_orders_order_id_shipping_info_update_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "OrdersOrderIdShippingInfoUpdatePost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_orders_order_id_shipping_services_query_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "OrdersOrderIdShippingServicesQueryPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_orders_order_id_split_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "OrdersOrderIdSplitPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_orders_order_id_tracking_get",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "OrdersOrderIdTrackingGet"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_orders_split_attributes_get",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "OrdersSplitAttributesGet"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_combine_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesCombinePost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_deliver_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesDeliverPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_package_id_get",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesPackageIdGet"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_package_id_handover_time_slots_get",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesPackageIdHandoverTimeSlotsGet"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_package_id_ship_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesPackageIdShipPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_package_id_shipping_documents_get",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesPackageIdShippingDocumentsGet"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_package_id_shipping_info_update_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesPackageIdShippingInfoUpdatePost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_package_id_uncombine_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesPackageIdUncombinePost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_schedule_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesSchedulePost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_search_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesSearchPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202309_packages_ship_post",
+    "apiClient": "FulfillmentV202309Api",
+    "method": "PackagesShipPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202407_bundles_post",
+    "apiClient": "FulfillmentV202407Api",
+    "method": "BundlesPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202408_last_mile_bundles_post",
+    "apiClient": "FulfillmentV202408Api",
+    "method": "LastMileBundlesPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202502_invoice_upload_post",
+    "apiClient": "FulfillmentV202502Api",
+    "method": "InvoiceUploadPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202508_tts_tracking_validation_get",
+    "apiClient": "FulfillmentV202508Api",
+    "method": "TtsTrackingValidationGet"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202510_first_mile_bundle_post",
+    "apiClient": "FulfillmentV202510Api",
+    "method": "FirstMileBundlePost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202512_packages_post",
+    "apiClient": "FulfillmentV202512Api",
+    "method": "PackagesPost"
+  },
+  {
+    "toolName": "tiktok_fulfillment_v202601_redeem_info_callback_post",
+    "apiClient": "FulfillmentV202601Api",
+    "method": "RedeemInfoCallbackPost"
+  },
+  {
+    "toolName": "tiktok_logistics_v202309_delivery_options_delivery_option_id_shipping_providers_get",
+    "apiClient": "LogisticsV202309Api",
+    "method": "DeliveryOptionsDeliveryOptionIdShippingProvidersGet"
+  },
+  {
+    "toolName": "tiktok_logistics_v202309_global_warehouses_get",
+    "apiClient": "LogisticsV202309Api",
+    "method": "GlobalWarehousesGet"
+  },
+  {
+    "toolName": "tiktok_logistics_v202309_warehouses_get",
+    "apiClient": "LogisticsV202309Api",
+    "method": "WarehousesGet"
+  },
+  {
+    "toolName": "tiktok_logistics_v202309_warehouses_warehouse_id_delivery_options_get",
+    "apiClient": "LogisticsV202309Api",
+    "method": "WarehousesWarehouseIdDeliveryOptionsGet"
+  },
+  {
+    "toolName": "tiktok_logistics_v202510_seller_templates_get",
+    "apiClient": "LogisticsV202510Api",
+    "method": "SellerTemplatesGet"
+  },
+  {
+    "toolName": "tiktok_logistics_v202604_orders_order_id_tracking_get",
+    "apiClient": "LogisticsV202604Api",
+    "method": "OrdersOrderIdTrackingGet"
+  },
+  {
+    "toolName": "tiktok_open_v202512_file_init_post",
+    "apiClient": "OpenV202512Api",
+    "method": "FileInitPost"
+  },
+  {
+    "toolName": "tiktok_order_v202309_orders_get",
+    "apiClient": "OrderV202309Api",
+    "method": "OrdersGet"
+  },
+  {
+    "toolName": "tiktok_order_v202309_orders_search_post",
+    "apiClient": "OrderV202309Api",
+    "method": "OrdersSearchPost"
+  },
+  {
+    "toolName": "tiktok_order_v202407_orders_order_id_price_detail_get",
+    "apiClient": "OrderV202407Api",
+    "method": "OrdersOrderIdPriceDetailGet"
+  },
+  {
+    "toolName": "tiktok_order_v202507_orders_get",
+    "apiClient": "OrderV202507Api",
+    "method": "OrdersGet"
+  },
+  {
+    "toolName": "tiktok_order_v202511_orders_blind_box_result_callback_post",
+    "apiClient": "OrderV202511Api",
+    "method": "OrdersBlindBoxResultCallbackPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_brands_get",
+    "apiClient": "ProductV202309Api",
+    "method": "BrandsGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_brands_post",
+    "apiClient": "ProductV202309Api",
+    "method": "BrandsPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_categories_category_id_attributes_get",
+    "apiClient": "ProductV202309Api",
+    "method": "CategoriesCategoryIdAttributesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_categories_category_id_global_attributes_get",
+    "apiClient": "ProductV202309Api",
+    "method": "CategoriesCategoryIdGlobalAttributesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_categories_category_id_global_rules_get",
+    "apiClient": "ProductV202309Api",
+    "method": "CategoriesCategoryIdGlobalRulesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_categories_category_id_rules_get",
+    "apiClient": "ProductV202309Api",
+    "method": "CategoriesCategoryIdRulesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_categories_get",
+    "apiClient": "ProductV202309Api",
+    "method": "CategoriesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_categories_recommend_post",
+    "apiClient": "ProductV202309Api",
+    "method": "CategoriesRecommendPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_files_upload_post",
+    "apiClient": "ProductV202309Api",
+    "method": "FilesUploadPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_global_categories_get",
+    "apiClient": "ProductV202309Api",
+    "method": "GlobalCategoriesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_global_categories_recommend_post",
+    "apiClient": "ProductV202309Api",
+    "method": "GlobalCategoriesRecommendPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_global_products_delete",
+    "apiClient": "ProductV202309Api",
+    "method": "GlobalProductsDelete"
+  },
+  {
+    "toolName": "tiktok_product_v202309_global_products_global_product_id_get",
+    "apiClient": "ProductV202309Api",
+    "method": "GlobalProductsGlobalProductIdGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_global_products_global_product_id_inventory_update_post",
+    "apiClient": "ProductV202309Api",
+    "method": "GlobalProductsGlobalProductIdInventoryUpdatePost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_global_products_global_product_id_publish_post",
+    "apiClient": "ProductV202309Api",
+    "method": "GlobalProductsGlobalProductIdPublishPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_global_products_global_product_id_put",
+    "apiClient": "ProductV202309Api",
+    "method": "GlobalProductsGlobalProductIdPut"
+  },
+  {
+    "toolName": "tiktok_product_v202309_global_products_post",
+    "apiClient": "ProductV202309Api",
+    "method": "GlobalProductsPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_global_products_search_post",
+    "apiClient": "ProductV202309Api",
+    "method": "GlobalProductsSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_images_upload_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ImagesUploadPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_inventory_search_post",
+    "apiClient": "ProductV202309Api",
+    "method": "InventorySearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_prerequisites_get",
+    "apiClient": "ProductV202309Api",
+    "method": "PrerequisitesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_activate_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsActivatePost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_deactivate_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsDeactivatePost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_delete",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsDelete"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_listing_check_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsListingCheckPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_product_id_get",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsProductIdGet"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_product_id_inventory_update_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsProductIdInventoryUpdatePost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_product_id_partial_edit_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsProductIdPartialEditPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_product_id_prices_update_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsProductIdPricesUpdatePost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_product_id_put",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsProductIdPut"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_recover_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsRecoverPost"
+  },
+  {
+    "toolName": "tiktok_product_v202309_products_search_post",
+    "apiClient": "ProductV202309Api",
+    "method": "ProductsSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202312_global_products_search_post",
+    "apiClient": "ProductV202312Api",
+    "method": "GlobalProductsSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202312_prerequisites_get",
+    "apiClient": "ProductV202312Api",
+    "method": "PrerequisitesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202312_products_search_post",
+    "apiClient": "ProductV202312Api",
+    "method": "ProductsSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202401_listing_schemas_get",
+    "apiClient": "ProductV202401Api",
+    "method": "ListingSchemasGet"
+  },
+  {
+    "toolName": "tiktok_product_v202404_images_optimize_post",
+    "apiClient": "ProductV202404Api",
+    "method": "ImagesOptimizePost"
+  },
+  {
+    "toolName": "tiktok_product_v202405_products_diagnoses_get",
+    "apiClient": "ProductV202405Api",
+    "method": "ProductsDiagnosesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202405_products_seo_words_get",
+    "apiClient": "ProductV202405Api",
+    "method": "ProductsSeoWordsGet"
+  },
+  {
+    "toolName": "tiktok_product_v202405_products_suggestions_get",
+    "apiClient": "ProductV202405Api",
+    "method": "ProductsSuggestionsGet"
+  },
+  {
+    "toolName": "tiktok_product_v202407_listing_schemas_get",
+    "apiClient": "ProductV202407Api",
+    "method": "ListingSchemasGet"
+  },
+  {
+    "toolName": "tiktok_product_v202407_products_category_upgrade_task_post",
+    "apiClient": "ProductV202407Api",
+    "method": "ProductsCategoryUpgradeTaskPost"
+  },
+  {
+    "toolName": "tiktok_product_v202407_sizecharts_search_post",
+    "apiClient": "ProductV202407Api",
+    "method": "SizechartsSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202409_compliance_manufacturers_manufacturer_id_partial_edit_post",
+    "apiClient": "ProductV202409Api",
+    "method": "ComplianceManufacturersManufacturerIdPartialEditPost"
+  },
+  {
+    "toolName": "tiktok_product_v202409_compliance_manufacturers_post",
+    "apiClient": "ProductV202409Api",
+    "method": "ComplianceManufacturersPost"
+  },
+  {
+    "toolName": "tiktok_product_v202409_compliance_manufacturers_search_post",
+    "apiClient": "ProductV202409Api",
+    "method": "ComplianceManufacturersSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202409_compliance_responsible_persons_post",
+    "apiClient": "ProductV202409Api",
+    "method": "ComplianceResponsiblePersonsPost"
+  },
+  {
+    "toolName": "tiktok_product_v202409_compliance_responsible_persons_responsible_person_id_partial_edit_post",
+    "apiClient": "ProductV202409Api",
+    "method": "ComplianceResponsiblePersonsResponsiblePersonIdPartialEditPost"
+  },
+  {
+    "toolName": "tiktok_product_v202409_compliance_responsible_persons_search_post",
+    "apiClient": "ProductV202409Api",
+    "method": "ComplianceResponsiblePersonsSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202411_products_diagnose_optimize_post",
+    "apiClient": "ProductV202411Api",
+    "method": "ProductsDiagnoseOptimizePost"
+  },
+  {
+    "toolName": "tiktok_product_v202501_compliance_manufacturers_search_post",
+    "apiClient": "ProductV202501Api",
+    "method": "ComplianceManufacturersSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202501_compliance_responsible_persons_search_post",
+    "apiClient": "ProductV202501Api",
+    "method": "ComplianceResponsiblePersonsSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202502_products_search_post",
+    "apiClient": "ProductV202502Api",
+    "method": "ProductsSearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202505_images_translation_tasks_post",
+    "apiClient": "ProductV202505Api",
+    "method": "ImagesTranslationTasksPost"
+  },
+  {
+    "toolName": "tiktok_product_v202506_images_translation_tasks_get",
+    "apiClient": "ProductV202506Api",
+    "method": "ImagesTranslationTasksGet"
+  },
+  {
+    "toolName": "tiktok_product_v202507_global_listing_rules_get",
+    "apiClient": "ProductV202507Api",
+    "method": "GlobalListingRulesGet"
+  },
+  {
+    "toolName": "tiktok_product_v202507_products_product_id_global_replicate_post",
+    "apiClient": "ProductV202507Api",
+    "method": "ProductsProductIdGlobalReplicatePost"
+  },
+  {
+    "toolName": "tiktok_product_v202507_products_product_id_replicated_products_get",
+    "apiClient": "ProductV202507Api",
+    "method": "ProductsProductIdReplicatedProductsGet"
+  },
+  {
+    "toolName": "tiktok_product_v202509_global_products_global_product_id_partial_edit_put",
+    "apiClient": "ProductV202509Api",
+    "method": "GlobalProductsGlobalProductIdPartialEditPut"
+  },
+  {
+    "toolName": "tiktok_product_v202509_products_product_id_partial_edit_post",
+    "apiClient": "ProductV202509Api",
+    "method": "ProductsProductIdPartialEditPost"
+  },
+  {
+    "toolName": "tiktok_product_v202509_products_product_id_put",
+    "apiClient": "ProductV202509Api",
+    "method": "ProductsProductIdPut"
+  },
+  {
+    "toolName": "tiktok_product_v202601_compliance_auditing_research_post",
+    "apiClient": "ProductV202601Api",
+    "method": "ComplianceAuditingResearchPost"
+  },
+  {
+    "toolName": "tiktok_product_v202602_packages_recommend_post",
+    "apiClient": "ProductV202602Api",
+    "method": "PackagesRecommendPost"
+  },
+  {
+    "toolName": "tiktok_product_v202604_opportunities_opportunity_id_get",
+    "apiClient": "ProductV202604Api",
+    "method": "OpportunitiesOpportunityIdGet"
+  },
+  {
+    "toolName": "tiktok_product_v202604_opportunities_opportunity_id_submit_post",
+    "apiClient": "ProductV202604Api",
+    "method": "OpportunitiesOpportunityIdSubmitPost"
+  },
+  {
+    "toolName": "tiktok_product_v202604_opportunities_query_post",
+    "apiClient": "ProductV202604Api",
+    "method": "OpportunitiesQueryPost"
+  },
+  {
+    "toolName": "tiktok_product_v202604_opportunities_submissions_get",
+    "apiClient": "ProductV202604Api",
+    "method": "OpportunitiesSubmissionsGet"
+  },
+  {
+    "toolName": "tiktok_product_v202604_products_gpa_upgrade_task_post",
+    "apiClient": "ProductV202604Api",
+    "method": "ProductsGpaUpgradeTaskPost"
+  },
+  {
+    "toolName": "tiktok_promotion_v202309_activities_activity_id_deactivate_post",
+    "apiClient": "PromotionV202309Api",
+    "method": "ActivitiesActivityIdDeactivatePost"
+  },
+  {
+    "toolName": "tiktok_promotion_v202309_activities_activity_id_get",
+    "apiClient": "PromotionV202309Api",
+    "method": "ActivitiesActivityIdGet"
+  },
+  {
+    "toolName": "tiktok_promotion_v202309_activities_activity_id_products_delete",
+    "apiClient": "PromotionV202309Api",
+    "method": "ActivitiesActivityIdProductsDelete"
+  },
+  {
+    "toolName": "tiktok_promotion_v202309_activities_activity_id_products_put",
+    "apiClient": "PromotionV202309Api",
+    "method": "ActivitiesActivityIdProductsPut"
+  },
+  {
+    "toolName": "tiktok_promotion_v202309_activities_activity_id_put",
+    "apiClient": "PromotionV202309Api",
+    "method": "ActivitiesActivityIdPut"
+  },
+  {
+    "toolName": "tiktok_promotion_v202309_activities_post",
+    "apiClient": "PromotionV202309Api",
+    "method": "ActivitiesPost"
+  },
+  {
+    "toolName": "tiktok_promotion_v202309_activities_search_post",
+    "apiClient": "PromotionV202309Api",
+    "method": "ActivitiesSearchPost"
+  },
+  {
+    "toolName": "tiktok_promotion_v202406_coupons_coupon_id_get",
+    "apiClient": "PromotionV202406Api",
+    "method": "CouponsCouponIdGet"
+  },
+  {
+    "toolName": "tiktok_promotion_v202406_coupons_search_post",
+    "apiClient": "PromotionV202406Api",
+    "method": "CouponsSearchPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_cancellations_cancel_id_approve_post",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "CancellationsCancelIdApprovePost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_cancellations_cancel_id_reject_post",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "CancellationsCancelIdRejectPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_cancellations_post",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "CancellationsPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_cancellations_search_post",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "CancellationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_orders_order_id_aftersale_eligibility_get",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "OrdersOrderIdAftersaleEligibilityGet"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_refunds_calculate_post",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "RefundsCalculatePost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_reject_reasons_get",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "RejectReasonsGet"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_returns_post",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "ReturnsPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_returns_return_id_approve_post",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "ReturnsReturnIdApprovePost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_returns_return_id_records_get",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "ReturnsReturnIdRecordsGet"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_returns_return_id_reject_post",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "ReturnsReturnIdRejectPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202309_returns_search_post",
+    "apiClient": "ReturnRefundV202309Api",
+    "method": "ReturnsSearchPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202512_orders_order_id_aftersale_eligibility_get",
+    "apiClient": "ReturnRefundV202512Api",
+    "method": "OrdersOrderIdAftersaleEligibilityGet"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202601_decision_eligibility_get",
+    "apiClient": "ReturnRefundV202601Api",
+    "method": "DecisionEligibilityGet"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202602_cancellations_post",
+    "apiClient": "ReturnRefundV202602Api",
+    "method": "CancellationsPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202602_cancellations_search_post",
+    "apiClient": "ReturnRefundV202602Api",
+    "method": "CancellationsSearchPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202602_orders_order_id_aftersale_eligibility_get",
+    "apiClient": "ReturnRefundV202602Api",
+    "method": "OrdersOrderIdAftersaleEligibilityGet"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202602_refunds_calculate_post",
+    "apiClient": "ReturnRefundV202602Api",
+    "method": "RefundsCalculatePost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202602_returns_post",
+    "apiClient": "ReturnRefundV202602Api",
+    "method": "ReturnsPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202602_returns_search_post",
+    "apiClient": "ReturnRefundV202602Api",
+    "method": "ReturnsSearchPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202603_aftersales_review_post",
+    "apiClient": "ReturnRefundV202603Api",
+    "method": "AftersalesReviewPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202603_aftersales_search_post",
+    "apiClient": "ReturnRefundV202603Api",
+    "method": "AftersalesSearchPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202603_rma_search_post",
+    "apiClient": "ReturnRefundV202603Api",
+    "method": "RmaSearchPost"
+  },
+  {
+    "toolName": "tiktok_return_refund_v202604_rma_search_post",
+    "apiClient": "ReturnRefundV202604Api",
+    "method": "RmaSearchPost"
+  },
+  {
+    "toolName": "tiktok_seller_v202309_permissions_get",
+    "apiClient": "SellerV202309Api",
+    "method": "PermissionsGet"
+  },
+  {
+    "toolName": "tiktok_seller_v202309_shops_get",
+    "apiClient": "SellerV202309Api",
+    "method": "ShopsGet"
+  },
+  {
+    "toolName": "tiktok_seller_v202601_shop_groups_get",
+    "apiClient": "SellerV202601Api",
+    "method": "ShopGroupsGet"
+  },
+  {
+    "toolName": "tiktok_supply_chain_v202309_packages_sync_post",
+    "apiClient": "SupplyChainV202309Api",
+    "method": "PackagesSyncPost"
+  }
+]

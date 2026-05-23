@@ -1,0 +1,24 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Node MCP
+node_modules/
+dist/
+
+# TikTok vendored SDK (run: npm run build in tiktok-mcp)
+vendor/nodejs_sdk/
+
+# Local test / debug fixtures
+products-*.json
+
+# Python MCP
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS / IDE
+.DS_Store
+.idea/

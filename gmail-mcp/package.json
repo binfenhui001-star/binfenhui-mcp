@@ -1,0 +1,17 @@
+{
+  "name": "gmail-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gmail API MCP for 缤纷汇 (wraps @shinzolabs/gmail-mcp)",
+  "type": "module",
+  "scripts": {
+    "install:deps": "npm install --omit=dev",
+    "prepare": "node scripts/ensure-deps.mjs"
+  },
+  "dependencies": {
+    "@shinzolabs/gmail-mcp": "1.7.4"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
