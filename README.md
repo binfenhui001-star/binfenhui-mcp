@@ -33,7 +33,7 @@ Gmail OAuth **不要**写在 `.env`，放在 `~/.gmail-mcp/`（见 `gmail-mcp/RE
 # Shopee
 cd shopee-mcp && npm ci && npm run build
 
-# TikTok（需先 vendor SDK，见 tiktok-mcp/README 或 npm run build）
+# TikTok（SDK 已随仓库 vendor/nodejs_sdk 提交，克隆后直接 build）
 cd ../tiktok-mcp && npm ci && npm run build
 
 # Gmail
@@ -58,6 +58,14 @@ node --env-file=../.env dist/mcp-server.js
 - **开发**：在 `binfenhui-switch` 仓库根目录 `bun run tauri dev`，自动发现 `mcp/` 下已构建的服务。
 - **安装包（core）**：默认 DMG 仅捆绑 `shopee-mcp`、`tiktok-mcp`；Gmail 等需源码开发或 `BUNDLE_MCP_PROFILE=full` 全量打包。
 
+## 桌面端一键安装
+
+在 **设置 → MCP → 从 GitHub 安装 MCP 套件** 中填入仓库地址（默认官方仓）：
+
+`https://github.com/binfenhui001-star/binfenhui-mcp`
+
+安装位置：`~/.Claude/mcp/servers/binfenhui-mcp`，并写入 `~/.Claude/mcp/active-bundle.json`。安装完成后在 **共享环境配置** 填写 API 密钥。
+
 ## 发布到 GitHub
 
 见仓库根目录脚本：
@@ -71,7 +79,7 @@ node --env-file=../.env dist/mcp-server.js
 ### 独立仓库（推荐）
 
 1. 删除 `mcp-redis/.git`（避免嵌套仓库），或改为 [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) 指向 `redis/mcp-redis`。
-2. 确认未提交 `.env`、`node_modules/`、`.venv/`、`tiktok-mcp/vendor/`。
+2. 确认未提交 `.env`、`node_modules/`、`.venv/`；**需提交** `tiktok-mcp/vendor/nodejs_sdk/`（克隆即用）。
 3. 在 GitHub 创建空仓库（如 `your-org/binfenhui-mcp`）。
 4. 在**本目录**初始化并推送：
 

@@ -1,11 +1,18 @@
-# TikTok Shop `nodejs_sdk`（vendor）
+# TikTok Shop `nodejs_sdk`（随仓库提交）
 
-与 Shopee 的 `@congminh1254/shopee-sdk` 类似，官方 SDK  vendoring 在此目录，随 `tiktok-mcp` 打进桌面应用。
+官方 TikTok Shop Open API **nodejs_sdk** 已 vendoring 在本目录，**克隆仓库即可构建**，无需本机 `~/Documents/nodejs_sdk` 或 `TIKTOK_SDK_ROOT`。
 
 ```bash
 cd mcp/tiktok-mcp
-npm run vendor:sdk    # 从 TIKTOK_SDK_ROOT 或 ~/Documents/nodejs_sdk 复制到 vendor/nodejs_sdk
-npm run build         # 会先生成 catalog 再 tsc
+npm ci
+npm run build   # 若 vendor 已存在则跳过复制，仅生成 catalog + tsc
 ```
 
-`vendor/nodejs_sdk/` 已加入 `.gitignore`（约 70MB）。CI/打包前需执行 `vendor:sdk`。
+维护者从外部 SDK 刷新 vendor（可选）：
+
+```bash
+export TIKTOK_SDK_ROOT=/path/to/nodejs_sdk   # 或放在 ~/Documents/nodejs_sdk
+npm run vendor:sdk
+```
+
+`npm run vendor:sdk` 仅在 `vendor/nodejs_sdk` 缺失，或需从更新的本地 SDK 覆盖时才会复制。

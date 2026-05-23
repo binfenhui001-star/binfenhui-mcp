@@ -7,9 +7,6 @@
 node_modules/
 dist/
 
-# TikTok vendored SDK (run: npm run build in tiktok-mcp)
-vendor/nodejs_sdk/
-
 # Local test / debug fixtures
 products-*.json
 

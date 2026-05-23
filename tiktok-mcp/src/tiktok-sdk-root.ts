@@ -54,6 +54,6 @@ export function resolveTiktokSdkRoot(): string {
   }
 
   throw new Error(
-    "找不到 TikTok SDK：请在 mcp/tiktok-mcp 运行 npm run vendor:sdk，或设置 TIKTOK_SDK_ROOT"
+    "找不到 TikTok SDK：请完整克隆 mcp 仓库（含 vendor/nodejs_sdk），或设置 TIKTOK_SDK_ROOT 后运行 npm run vendor:sdk"
   );
 }

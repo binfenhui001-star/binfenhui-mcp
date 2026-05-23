@@ -1,6 +1,6 @@
 # tiktok-mcp 接口说明
 
-TikTok Shop **开放平台 API** MCP，基于 `/Users/hblack/Documents/nodejs_sdk`（可通过 `TIKTOK_SDK_ROOT` 覆盖）。
+TikTok Shop **开放平台 API** MCP，基于仓库内 `vendor/nodejs_sdk`（克隆即用；可选 `TIKTOK_SDK_ROOT` 覆盖或 `npm run vendor:sdk` 刷新）。
 
 ## 环境变量
 
@@ -9,7 +9,7 @@ TikTok Shop **开放平台 API** MCP，基于 `/Users/hblack/Documents/nodejs_sd
 | `TIKTOK_APP_KEY` | 是 | Partner App Key |
 | `TIKTOK_APP_SECRET` | 是 | Partner App Secret |
 | `TIKTOK_ENVIRONMENT` | 否 | `sandbox` 或 `live`（默认 live） |
-| `TIKTOK_SDK_ROOT` | 否 | nodejs_sdk 目录，默认 `../../../../nodejs_sdk` |
+| `TIKTOK_SDK_ROOT` | 否 | 覆盖 SDK 目录；默认使用 `vendor/nodejs_sdk` |
 | `TIKTOK_MCP_REGISTER_MODE` | 否 | `lazy`（默认）或 `full` |
 | `REDIS_*` | 否 | 店铺 token：`tiktok:token:{shop_id}` JSON |
 

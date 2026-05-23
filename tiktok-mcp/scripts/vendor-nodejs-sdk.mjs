@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 /**
- * Copy TikTok nodejs_sdk into mcp/tiktok-mcp/vendor/nodejs_sdk for bundling (like shopee npm deps).
+ * Copy TikTok nodejs_sdk into vendor/nodejs_sdk when missing or when refreshing from TIKTOK_SDK_ROOT.
+ * The vendored tree is committed in git so `git clone` + `npm run build` works without a local SDK copy.
  */
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
