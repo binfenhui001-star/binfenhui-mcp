@@ -1,6 +1,8 @@
 # 缤纷汇 MCP
 
-Shopee / TikTok 开放平台、Gmail、邮件、Redis、Chrome Browser Relay 等 **stdio MCP** 服务集合，供 [缤纷汇电商桌面端](https://github.com/)（`binfenhui-switch`）内置或开发模式加载。
+Shopee / TikTok 开放平台、Gmail、邮件、Redis、Chrome Browser Relay 等 **stdio MCP** 服务集合，供缤纷汇电商桌面端（`binfenhui-switch`）内置或开发模式加载。
+
+**GitHub：** https://github.com/binfenhui001-star/binfenhui-mcp
 
 ## 目录
 
