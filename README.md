@@ -10,6 +10,7 @@ Shopee / TikTok 开放平台、Gmail、邮件、Redis、Chrome Browser Relay 等
 |------|------|
 | `shopee-mcp/` | Shopee Open Platform API（+ 马帮库存工具） |
 | `tiktok-mcp/` | TikTok Shop Open API |
+| `tikhub-kol-mcp/` | TikTok 红人建联（TikHub API，基于 [tikhub-kol-sourcing](https://github.com/waynefu2020/tikhub-kol-sourcing)） |
 | `gmail-mcp/` | Gmail API（`@shinzolabs/gmail-mcp` 包装） |
 | `email-mcp/` | 通用 IMAP/SMTP（Python + uv） |
 | `mcp-redis/` | Redis MCP（上游 [redis/mcp-redis](https://github.com/redis/mcp-redis)） |
@@ -35,6 +36,9 @@ cd shopee-mcp && npm ci && npm run build
 
 # TikTok（SDK 已随仓库 vendor/nodejs_sdk 提交，克隆后直接 build）
 cd ../tiktok-mcp && npm ci && npm run build
+
+# TikHub 红人建联
+cd ../tikhub-kol-mcp && npm ci && npm run build
 
 # Gmail
 cd ../gmail-mcp && npm install --omit=dev

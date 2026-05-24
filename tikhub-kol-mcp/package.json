@@ -1,0 +1,28 @@
+{
+  "name": "tikhub-kol-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for TikTok KOL sourcing via TikHub API (waynefu2020/tikhub-kol-sourcing)",
+  "type": "module",
+  "main": "./dist/mcp-server.js",
+  "bin": {
+    "tikhub-kol-mcp": "./dist/mcp-server.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node --env-file=.env dist/mcp-server.js",
+    "mcp:stdio": "node --env-file=../.env dist/mcp-server.js",
+    "test": "node --experimental-vm-modules node_modules/.bin/node --test dist/*.test.js 2>/dev/null || bun test src/",
+    "dev": "tsc --watch"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.0.0-alpha.2",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.6.0"
+  }
+}
